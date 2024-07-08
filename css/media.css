@@ -1,0 +1,21 @@
+@media(max-width: 900px) {
+
+  .block {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .img_swing {
+    margin-left: 25%;
+    margin-bottom: 5%;
+  }
+
+  .img_col_hight_plet{
+    margin-left: 8%;
+  }
+
+  .more_text {
+    margin-top: 8%;
+    margin-left: 15%;
+  }
+}
